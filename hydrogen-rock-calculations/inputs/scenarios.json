@@ -1,0 +1,32 @@
+{
+  "scope": "Ideal mineral recipes and illustrative kinetic/mechanical parameters, not measured rock samples.",
+  "conditions": {
+    "rock_mass_kg": 1.0,
+    "water_rock_mass_ratio": 0.5,
+    "temperature_c": 80.0,
+    "pore_pressure_mpa": 20.0,
+    "duration_years": 1000.0,
+    "accessible_fraction": 0.25,
+    "half_time_reference_years": 1000.0,
+    "reference_temperature_c": 80.0,
+    "reference_pressure_mpa": 20.0,
+    "activation_energy_kj_mol": 60.0,
+    "activation_volume_cm3_mol": 0.0,
+    "porosity": 0.05,
+    "available_pore_fraction": 0.25,
+    "effective_bulk_modulus_gpa": 1.0,
+    "minimum_total_stress_mpa": 50.0,
+    "biot_coefficient": 1.0,
+    "flaw_half_length_m": 0.001,
+    "crack_geometry_factor": 1.0,
+    "fracture_toughness_mpa_sqrt_m": 1.0
+  },
+  "rocks": [
+    {"name":"Dunite analogue","mass_fractions":{"forsterite":0.9,"fayalite":0.1},"reaction_paths":["forsterite","fayalite"]},
+    {"name":"Harzburgite analogue","mass_fractions":{"forsterite":0.6,"fayalite":0.07,"enstatite":0.3,"ferrosilite":0.03},"reaction_paths":["forsterite","fayalite","enstatite","ferrosilite"]},
+    {"name":"Pyroxenite analogue","mass_fractions":{"enstatite":0.85,"ferrosilite":0.15},"reaction_paths":["enstatite","ferrosilite"]},
+    {"name":"Mafic rock analogue","mass_fractions":{"anorthite":0.5,"diopside":0.2,"enstatite":0.2,"ferrosilite":0.05,"fayalite":0.05},"reaction_paths":["enstatite","ferrosilite","fayalite"]},
+    {"name":"Magnetite BIF analogue","mass_fractions":{"magnetite":0.5,"quartz":0.5},"reaction_paths":["magnetite"]},
+    {"name":"Granite radiolysis host","mass_fractions":{"quartz":0.3,"albite":0.35,"microcline":0.3,"annite":0.05},"reaction_paths":[]}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "database": "SUPCRTBL-derived PHREEQC database by Zhang et al., 2019 header; cite Zhang et al.2020 SupPHREEQC",
+  "source_url": "https://gitlab.com/open-darts/open-darts/-/raw/bb040aa025bfcafff20578654ad0b0d819d463a0/darts/physics/properties/databases/supcrtbl.dat",
+  "sha256": "dc4a71f2576fec7cde770c4cab7e9e9af08f547ff0cd3aa88120062a21243996",
+  "normalized_text_sha256": "ae586ef06fc5964c35860b19b1b9930671ac313f58992bffa29107f4d67cb871",
+  "header_domain": "0.01\u2013300 C, equilibrium constants along Psat; high-pressure mineral corrections not supplied by simply setting SOLUTION pressure",
+  "demonstration_domain": "25\u201395 C, 1 atm, initial 0.001 mol/kg NaCl; restricted pure phases, no solid solutions",
+  "python": "3.11",
+  "phreeqpy": "0.6.0",
+  "IPhreeqc": "3.7.3 macOS arm64"
+}

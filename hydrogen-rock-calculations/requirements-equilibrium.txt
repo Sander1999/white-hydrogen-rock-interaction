@@ -1,0 +1,2 @@
+phreeqpy==0.6.0
+# Requires a platform-compatible IPhreeqc native library and the vetted external database.

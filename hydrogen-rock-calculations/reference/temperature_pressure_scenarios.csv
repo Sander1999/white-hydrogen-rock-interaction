@@ -1,0 +1,163 @@
+rock,temperature_c,pore_pressure_mpa,activation_volume_cm3_mol,hydrogen_g_per_kg_rock,fracture_index,rate_per_year,scope
+Dunite analogue,80.0,10.0,-10.0,0.0805040076899925,0.4024041210265523,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,80.0,10.0,0.0,0.08243973321306886,0.4828355120145811,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,80.0,10.0,10.0,0.08439578825932414,0.5641116156480324,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,80.0,20.0,-10.0,0.08243973321306886,1.043334633654374,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,80.0,20.0,0.0,0.08243973321306886,1.043334633654374,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,80.0,20.0,10.0,0.08243973321306886,1.043334633654374,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,80.0,30.0,-10.0,0.08439578825932414,1.685109858927618,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,80.0,30.0,0.0,0.08243973321306886,1.6038337552941668,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,80.0,30.0,10.0,0.0805040076899925,1.523402364306138,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,150.0,10.0,-10.0,0.16487946600883832,3.908291395298855,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,150.0,10.0,0.0,0.16487946619030902,3.9082914028391493,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,150.0,10.0,10.0,0.1648794662950386,3.9082914071907697,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,150.0,20.0,-10.0,0.16487946619030902,4.468790524478942,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,150.0,20.0,0.0,0.16487946619030902,4.468790524478942,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,150.0,20.0,10.0,0.16487946619030902,4.468790524478942,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,150.0,30.0,-10.0,0.1648794662950386,5.029289650470355,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,150.0,30.0,0.0,0.16487946619030902,5.029289646118735,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,150.0,30.0,10.0,0.16487946600883832,5.029289638578441,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,250.0,10.0,-10.0,0.1648794664261377,3.908291412638075,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,250.0,10.0,0.0,0.1648794664261377,3.908291412638075,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,250.0,10.0,10.0,0.1648794664261377,3.908291412638075,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,250.0,20.0,-10.0,0.1648794664261377,4.4687905342778675,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,250.0,20.0,0.0,0.1648794664261377,4.4687905342778675,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,250.0,20.0,10.0,0.1648794664261377,4.4687905342778675,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,250.0,30.0,-10.0,0.1648794664261377,5.029289655917661,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,250.0,30.0,0.0,0.1648794664261377,5.029289655917661,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Dunite analogue,250.0,30.0,10.0,0.1648794664261377,5.029289655917661,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,80.0,10.0,-10.0,0.0750044155437258,0.09394484071379536,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,80.0,10.0,0.0,0.0768079029187955,0.1669593027952528,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,80.0,10.0,10.0,0.07863033101555189,0.24074058288968736,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,80.0,20.0,-10.0,0.0768079029187955,0.7274584244350457,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,80.0,20.0,0.0,0.0768079029187955,0.7274584244350457,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,80.0,20.0,10.0,0.0768079029187955,0.7274584244350457,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,80.0,30.0,-10.0,0.07863033101555189,1.361738826169273,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,80.0,30.0,0.0,0.0768079029187955,1.2879575460748387,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,80.0,30.0,10.0,0.0750044155437258,1.214943083993381,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,150.0,10.0,-10.0,0.15361580544879924,3.276538978459124,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,150.0,10.0,0.0,0.15361580561787286,3.2765389853040996,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,150.0,10.0,10.0,0.1536158057154479,3.276538989254439,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,150.0,20.0,-10.0,0.15361580561787286,3.837038106943892,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,150.0,20.0,0.0,0.15361580561787286,3.837038106943892,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,150.0,20.0,10.0,0.15361580561787286,3.837038106943892,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,150.0,30.0,-10.0,0.1536158057154479,4.397537232534025,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,150.0,30.0,0.0,0.15361580561787286,4.397537228583685,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,150.0,30.0,10.0,0.15361580544879924,4.39753722173871,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,250.0,10.0,-10.0,0.153615805837591,3.276538994199427,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,250.0,10.0,0.0,0.153615805837591,3.276538994199427,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,250.0,10.0,10.0,0.153615805837591,3.276538994199427,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,250.0,20.0,-10.0,0.153615805837591,3.8370381158392197,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,250.0,20.0,0.0,0.153615805837591,3.8370381158392197,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,250.0,20.0,10.0,0.153615805837591,3.8370381158392197,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,250.0,30.0,-10.0,0.153615805837591,4.397537237479013,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,250.0,30.0,0.0,0.153615805837591,4.397537237479013,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Harzburgite analogue,250.0,30.0,10.0,0.153615805837591,4.397537237479013,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,80.0,10.0,-10.0,0.09325805080365536,0.0,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,80.0,10.0,0.0,0.09550044834823657,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,80.0,10.0,10.0,0.09776639617012495,0.0,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,80.0,20.0,-10.0,0.09550044834823657,0.03974308530618742,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,80.0,20.0,0.0,0.09550044834823657,0.03974308530618742,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,80.0,20.0,10.0,0.09550044834823657,0.03974308530618742,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,80.0,30.0,-10.0,0.09776639617012495,0.6577060026544158,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,80.0,30.0,0.0,0.09550044834823657,0.6002422069459803,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,80.0,30.0,10.0,0.09325805080365536,0.5433756396074979,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,150.0,10.0,-10.0,0.1910008962130621,1.9011083036825305,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,150.0,10.0,0.0,0.19100089642328272,1.9011083090136716,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,150.0,10.0,10.0,0.19100089654460434,1.901108312090349,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,150.0,20.0,-10.0,0.19100089642328272,2.4616074306534643,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,150.0,20.0,0.0,0.19100089642328272,2.4616074306534643,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,150.0,20.0,10.0,0.19100089642328272,2.4616074306534643,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,150.0,30.0,-10.0,0.19100089654460434,3.022106555369935,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,150.0,30.0,0.0,0.19100089642328272,3.0221065522932573,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,150.0,30.0,10.0,0.1910008962130621,3.022106546962116,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,250.0,10.0,-10.0,0.19100089669647313,1.9011083159416926,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,250.0,10.0,0.0,0.19100089669647313,1.9011083159416926,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,250.0,10.0,10.0,0.19100089669647313,1.9011083159416926,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,250.0,20.0,-10.0,0.19100089669647313,2.4616074375814856,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,250.0,20.0,0.0,0.19100089669647313,2.4616074375814856,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,250.0,20.0,10.0,0.19100089669647313,2.4616074375814856,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,250.0,30.0,-10.0,0.19100089669647313,3.022106559221278,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,250.0,30.0,0.0,0.19100089669647313,3.022106559221278,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Pyroxenite analogue,250.0,30.0,10.0,0.19100089669647313,3.022106559221278,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,80.0,10.0,-10.0,0.07133802077954803,0.0,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,80.0,10.0,0.0,0.07305334938927996,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,80.0,10.0,10.0,0.07478669285303706,0.0,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,80.0,20.0,-10.0,0.07305334938927996,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,80.0,20.0,0.0,0.07305334938927996,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,80.0,20.0,10.0,0.07305334938927996,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,80.0,30.0,-10.0,0.07478669285303706,0.0,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,80.0,30.0,0.0,0.07305334938927996,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,80.0,30.0,10.0,0.07133802077954803,0.0,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,150.0,10.0,-10.0,0.1461066984087732,0.0,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,150.0,10.0,0.0,0.1461066985695821,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,150.0,10.0,10.0,0.1461066986623874,0.0,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,150.0,20.0,-10.0,0.1461066985695821,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,150.0,20.0,0.0,0.1461066985695821,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,150.0,20.0,10.0,0.1461066985695821,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,150.0,30.0,-10.0,0.1461066986623874,0.0,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,150.0,30.0,0.0,0.1461066985695821,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,150.0,30.0,10.0,0.1461066984087732,0.0,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,250.0,10.0,-10.0,0.14610669877855992,0.0,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,250.0,10.0,0.0,0.14610669877855992,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,250.0,10.0,10.0,0.14610669877855992,0.0,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,250.0,20.0,-10.0,0.14610669877855992,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,250.0,20.0,0.0,0.14610669877855992,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,250.0,20.0,10.0,0.14610669877855992,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,250.0,30.0,-10.0,0.14610669877855992,0.0,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,250.0,30.0,0.0,0.14610669877855992,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Mafic rock analogue,250.0,30.0,10.0,0.14610669877855992,0.0,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,80.0,10.0,-10.0,0.2656950556219773,0.0,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,80.0,10.0,0.0,0.272083715209003,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,80.0,10.0,10.0,0.27853947026055,0.0,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,80.0,20.0,-10.0,0.272083715209003,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,80.0,20.0,0.0,0.272083715209003,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,80.0,20.0,10.0,0.272083715209003,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,80.0,30.0,-10.0,0.27853947026055,0.0,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,80.0,30.0,0.0,0.272083715209003,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,80.0,30.0,10.0,0.2656950556219773,0.0,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,150.0,10.0,-10.0,0.544167429040753,0.0,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,150.0,10.0,0.0,0.544167429639678,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,150.0,10.0,10.0,0.544167429985327,0.0,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,150.0,20.0,-10.0,0.544167429639678,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,150.0,20.0,0.0,0.544167429639678,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,150.0,20.0,10.0,0.544167429639678,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,150.0,30.0,-10.0,0.544167429985327,0.0,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,150.0,30.0,0.0,0.544167429639678,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,150.0,30.0,10.0,0.544167429040753,0.0,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,250.0,10.0,-10.0,0.544167430418006,0.0,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,250.0,10.0,0.0,0.544167430418006,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,250.0,10.0,10.0,0.544167430418006,0.0,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,250.0,20.0,-10.0,0.544167430418006,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,250.0,20.0,0.0,0.544167430418006,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,250.0,20.0,10.0,0.544167430418006,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,250.0,30.0,-10.0,0.544167430418006,0.0,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,250.0,30.0,0.0,0.544167430418006,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Magnetite BIF analogue,250.0,30.0,10.0,0.544167430418006,0.0,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,80.0,10.0,-10.0,0.0,0.0,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,80.0,10.0,0.0,0.0,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,80.0,10.0,10.0,0.0,0.0,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,80.0,20.0,-10.0,0.0,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,80.0,20.0,0.0,0.0,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,80.0,20.0,10.0,0.0,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,80.0,30.0,-10.0,0.0,0.0,0.0007171602922673849,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,80.0,30.0,0.0,0.0,0.0,0.0006931471805599453,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,80.0,30.0,10.0,0.0,0.0,0.000669938114391685,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,150.0,10.0,-10.0,0.0,0.0,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,150.0,10.0,0.0,0.0,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,150.0,10.0,10.0,0.0,0.0,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,150.0,20.0,-10.0,0.0,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,150.0,20.0,0.0,0.0,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,150.0,20.0,10.0,0.0,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,150.0,30.0,-10.0,0.0,0.0,0.02095252678303978,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,150.0,30.0,0.0,0.0,0.0,0.020365374850118148,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,150.0,30.0,10.0,0.0,0.0,0.019794676655492782,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,250.0,10.0,-10.0,0.0,0.0,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,250.0,10.0,0.0,0.0,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,250.0,10.0,10.0,0.0,0.0,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,250.0,20.0,-10.0,0.0,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,250.0,20.0,0.0,0.0,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,250.0,20.0,10.0,0.0,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,250.0,30.0,-10.0,0.0,0.0,0.5427602675094385,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,250.0,30.0,0.0,0.0,0.0,0.530424534097768,Conditional kinetics only; mineral stability is not selected by this sweep
+Granite radiolysis host,250.0,30.0,10.0,0.0,0.0,0.5183691644634646,Conditional kinetics only; mineral stability is not selected by this sweep

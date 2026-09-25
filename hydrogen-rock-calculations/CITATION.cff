@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying minor research paper and the scientific sources for methods used."
+title: "Hydrogen source rock calculations"
+type: software
+authors:
+  - family-names: "da Costa"
+    given-names: "Sander Bert"
+version: "0.1.0"
+abstract: "Illustrative balanced reaction paths, expansion and fracture screening, radiolysis, and a restricted PHREEQC equilibrium example."

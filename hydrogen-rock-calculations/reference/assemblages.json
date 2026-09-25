@@ -1,0 +1,563 @@
+[
+  {
+    "rock": "Dunite analogue",
+    "scope": "Specified reaction-path assemblage; not a predicted equilibrium assemblage or calibrated geological rate.",
+    "conditions": {
+      "rock_mass_kg": 1.0,
+      "water_rock_mass_ratio": 0.5,
+      "temperature_c": 80.0,
+      "pore_pressure_mpa": 20.0,
+      "duration_years": 1000.0,
+      "accessible_fraction": 0.25,
+      "half_time_reference_years": 1000.0,
+      "reference_temperature_c": 80.0,
+      "reference_pressure_mpa": 20.0,
+      "activation_energy_kj_mol": 60.0,
+      "activation_volume_cm3_mol": 0.0,
+      "porosity": 0.05,
+      "available_pore_fraction": 0.25,
+      "effective_bulk_modulus_gpa": 1.0,
+      "minimum_total_stress_mpa": 50.0,
+      "biot_coefficient": 1.0,
+      "flaw_half_length_m": 0.001,
+      "crack_geometry_factor": 1.0,
+      "fracture_toughness_mpa_sqrt_m": 1.0
+    },
+    "rate_per_year": 0.0006931471805599453,
+    "accessible_conversion_fraction": 0.5,
+    "whole_initial_reactive_mineral_fraction": 0.125,
+    "water_limitation_multiplier": 1.0,
+    "hydrogen_mol": 0.04089515904372724,
+    "hydrogen_kg": 8.243973321306886e-05,
+    "water_consumed_kg": 0.022344609768656598,
+    "remaining_water_kg": 0.4776553902313434,
+    "phases": [
+      {
+        "mineral": "brucite",
+        "initial_mol": 0,
+        "final_mol": 0.3998063870936101,
+        "final_mass_kg": 0.02331658055725547,
+        "final_solid_volume_m3": 9.755891446550406e-06
+      },
+      {
+        "mineral": "fayalite",
+        "initial_mol": 0.4907419085247268,
+        "final_mol": 0.42939916995913596,
+        "final_mass_kg": 0.08750000000000001,
+        "final_solid_volume_m3": 1.9931662870159454e-05
+      },
+      {
+        "mineral": "forsterite",
+        "initial_mol": 6.396902193497762,
+        "final_mol": 5.597289419310542,
+        "final_mass_kg": 0.7875000000000001,
+        "final_solid_volume_m3": 0.00024082568807339453
+      },
+      {
+        "mineral": "lizardite",
+        "initial_mol": 0,
+        "final_mol": 0.3998063870936101,
+        "final_mass_kg": 0.11079129147058384,
+        "final_solid_volume_m3": 4.34475652825819e-05
+      },
+      {
+        "mineral": "magnetite",
+        "initial_mol": 0,
+        "final_mol": 0.04089515904372724,
+        "final_mass_kg": 0.00946856250080768,
+        "final_solid_volume_m3": 1.8279078186887412e-06
+      },
+      {
+        "mineral": "quartz",
+        "initial_mol": 0,
+        "final_mol": 0.06134273856559086,
+        "final_mass_kg": 0.003685735506796531,
+        "final_solid_volume_m3": 1.390843587470389e-06
+      }
+    ],
+    "reaction_extents_mol": {
+      "forsterite": 0.3998063870936101,
+      "fayalite": 0.02044757952186362
+    },
+    "max_relative_element_balance_error": 1.2895242648198394e-16,
+    "mechanics": {
+      "initial_solid_volume_m3": 0.0002980084010783474,
+      "final_solid_volume_m3": 0.0003171795590788454,
+      "solid_volume_change_percent": 6.433093138021251,
+      "bulk_reaction_strain": 0.06111438481120185,
+      "free_pore_allowance_strain": 0.0125,
+      "trial_expansion_stress_mpa": 48.61438481120185,
+      "minimum_effective_stress_mpa": 30.0,
+      "screening_tensile_stress_mpa": 18.61438481120185,
+      "stress_intensity_mpa_sqrt_m": 1.043334633654374,
+      "fracture_index": 1.043334633654374,
+      "cracking_screen_positive": true,
+      "mechanical_scope": "Constrained-volume screening with fixed nominal mineral densities; no force equilibrium, crack aperture, propagation or permeability prediction."
+    }
+  },
+  {
+    "rock": "Harzburgite analogue",
+    "scope": "Specified reaction-path assemblage; not a predicted equilibrium assemblage or calibrated geological rate.",
+    "conditions": {
+      "rock_mass_kg": 1.0,
+      "water_rock_mass_ratio": 0.5,
+      "temperature_c": 80.0,
+      "pore_pressure_mpa": 20.0,
+      "duration_years": 1000.0,
+      "accessible_fraction": 0.25,
+      "half_time_reference_years": 1000.0,
+      "reference_temperature_c": 80.0,
+      "reference_pressure_mpa": 20.0,
+      "activation_energy_kj_mol": 60.0,
+      "activation_volume_cm3_mol": 0.0,
+      "porosity": 0.05,
+      "available_pore_fraction": 0.25,
+      "effective_bulk_modulus_gpa": 1.0,
+      "minimum_total_stress_mpa": 50.0,
+      "biot_coefficient": 1.0,
+      "flaw_half_length_m": 0.001,
+      "crack_geometry_factor": 1.0,
+      "fracture_toughness_mpa_sqrt_m": 1.0
+    },
+    "rate_per_year": 0.0006931471805599453,
+    "accessible_conversion_fraction": 0.5,
+    "whole_initial_reactive_mineral_fraction": 0.125,
+    "water_limitation_multiplier": 1.0,
+    "hydrogen_mol": 0.03810142613587888,
+    "hydrogen_kg": 7.68079029187955e-05,
+    "water_consumed_kg": 0.01957803731415748,
+    "remaining_water_kg": 0.48042196268584253,
+    "phases": [
+      {
+        "mineral": "brucite",
+        "initial_mol": 0,
+        "final_mol": 0.26653759139574007,
+        "final_mass_kg": 0.015544387038170314,
+        "final_solid_volume_m3": 6.503927631033604e-06
+      },
+      {
+        "mineral": "enstatite",
+        "initial_mol": 2.9883841508058175,
+        "final_mol": 2.6148361319550903,
+        "final_mass_kg": 0.26249999999999996,
+        "final_solid_volume_m3": 8.203124999999999e-05
+      },
+      {
+        "mineral": "fayalite",
+        "initial_mol": 0.34351933596730877,
+        "final_mol": 0.3005794189713952,
+        "final_mass_kg": 0.06125,
+        "final_solid_volume_m3": 1.3952164009111616e-05
+      },
+      {
+        "mineral": "ferrosilite",
+        "initial_mol": 0.22739555532647557,
+        "final_mol": 0.1989711109106661,
+        "final_mass_kg": 0.026249999999999996,
+        "final_solid_volume_m3": 6.562499999999999e-06
+      },
+      {
+        "mineral": "forsterite",
+        "initial_mol": 4.264601462331841,
+        "final_mol": 3.731526279540361,
+        "final_mass_kg": 0.525,
+        "final_solid_volume_m3": 0.00016055045871559635
+      },
+      {
+        "mineral": "lizardite",
+        "initial_mol": 0,
+        "final_mol": 0.3910535976793158,
+        "final_mass_kg": 0.10836578533940573,
+        "final_solid_volume_m3": 4.249638640761009e-05
+      },
+      {
+        "mineral": "magnetite",
+        "initial_mol": 0,
+        "final_mol": 0.03810142613587888,
+        "final_mass_kg": 0.00882172225694799,
+        "final_solid_volume_m3": 1.703035184738994e-06
+      },
+      {
+        "mineral": "quartz",
+        "initial_mol": 0,
+        "final_mol": 0.19588036769529876,
+        "final_mass_kg": 0.01176933477671464,
+        "final_solid_volume_m3": 4.441258406307411e-06
+      }
+    ],
+    "reaction_extents_mol": {
+      "forsterite": 0.26653759139574007,
+      "fayalite": 0.014313305665304532,
+      "enstatite": 0.12451600628357573,
+      "ferrosilite": 0.009474814805269816
+    },
+    "max_relative_element_balance_error": 1.1102230246251565e-16,
+    "mechanics": {
+      "initial_solid_volume_m3": 0.0003006815688282377,
+      "final_solid_volume_m3": 0.00031824098035439805,
+      "solid_volume_change_percent": 5.83986959845586,
+      "bulk_reaction_strain": 0.05547876118533063,
+      "free_pore_allowance_strain": 0.0125,
+      "trial_expansion_stress_mpa": 42.97876118533063,
+      "minimum_effective_stress_mpa": 30.0,
+      "screening_tensile_stress_mpa": 12.978761185330633,
+      "stress_intensity_mpa_sqrt_m": 0.7274584244350457,
+      "fracture_index": 0.7274584244350457,
+      "cracking_screen_positive": false,
+      "mechanical_scope": "Constrained-volume screening with fixed nominal mineral densities; no force equilibrium, crack aperture, propagation or permeability prediction."
+    }
+  },
+  {
+    "rock": "Pyroxenite analogue",
+    "scope": "Specified reaction-path assemblage; not a predicted equilibrium assemblage or calibrated geological rate.",
+    "conditions": {
+      "rock_mass_kg": 1.0,
+      "water_rock_mass_ratio": 0.5,
+      "temperature_c": 80.0,
+      "pore_pressure_mpa": 20.0,
+      "duration_years": 1000.0,
+      "accessible_fraction": 0.25,
+      "half_time_reference_years": 1000.0,
+      "reference_temperature_c": 80.0,
+      "reference_pressure_mpa": 20.0,
+      "activation_energy_kj_mol": 60.0,
+      "activation_volume_cm3_mol": 0.0,
+      "porosity": 0.05,
+      "available_pore_fraction": 0.25,
+      "effective_bulk_modulus_gpa": 1.0,
+      "minimum_total_stress_mpa": 50.0,
+      "biot_coefficient": 1.0,
+      "flaw_half_length_m": 0.001,
+      "crack_geometry_factor": 1.0,
+      "fracture_toughness_mpa_sqrt_m": 1.0
+    },
+    "rate_per_year": 0.0006931471805599453,
+    "accessible_conversion_fraction": 0.5,
+    "whole_initial_reactive_mineral_fraction": 0.125,
+    "water_limitation_multiplier": 1.0,
+    "hydrogen_mol": 0.04737407402634908,
+    "hydrogen_kg": 9.550044834823657e-05,
+    "water_consumed_kg": 0.013564871275180917,
+    "remaining_water_kg": 0.4864351287248191,
+    "phases": [
+      {
+        "mineral": "enstatite",
+        "initial_mol": 8.46708842728315,
+        "final_mol": 7.408702373872756,
+        "final_mass_kg": 0.7437499999999999,
+        "final_solid_volume_m3": 0.00023242187499999996
+      },
+      {
+        "mineral": "ferrosilite",
+        "initial_mol": 1.1369777766323779,
+        "final_mol": 0.9948555545533306,
+        "final_mass_kg": 0.13125,
+        "final_solid_volume_m3": 3.2812500000000005e-05
+      },
+      {
+        "mineral": "lizardite",
+        "initial_mol": 0,
+        "final_mol": 0.3527953511367979,
+        "final_mass_kg": 0.09776395235054675,
+        "final_solid_volume_m3": 3.8338804843351665e-05
+      },
+      {
+        "mineral": "magnetite",
+        "initial_mol": 0,
+        "final_mol": 0.04737407402634908,
+        "final_mass_kg": 0.01096864253191307,
+        "final_solid_volume_m3": 2.1174985582843766e-06
+      },
+      {
+        "mineral": "quartz",
+        "initial_mol": 0,
+        "final_mol": 0.4949175732158451,
+        "final_mass_kg": 0.029736775944372802,
+        "final_solid_volume_m3": 1.1221424884668982e-05
+      }
+    ],
+    "reaction_extents_mol": {
+      "enstatite": 0.3527953511367979,
+      "ferrosilite": 0.04737407402634908
+    },
+    "max_relative_element_balance_error": 1.280062633668422e-16,
+    "mechanics": {
+      "initial_solid_volume_m3": 0.00030312499999999995,
+      "final_solid_volume_m3": 0.000316912103286305,
+      "solid_volume_change_percent": 4.548322733626398,
+      "bulk_reaction_strain": 0.04320906596945086,
+      "free_pore_allowance_strain": 0.0125,
+      "trial_expansion_stress_mpa": 30.709065969450858,
+      "minimum_effective_stress_mpa": 30.0,
+      "screening_tensile_stress_mpa": 0.7090659694508581,
+      "stress_intensity_mpa_sqrt_m": 0.03974308530618742,
+      "fracture_index": 0.03974308530618742,
+      "cracking_screen_positive": false,
+      "mechanical_scope": "Constrained-volume screening with fixed nominal mineral densities; no force equilibrium, crack aperture, propagation or permeability prediction."
+    }
+  },
+  {
+    "rock": "Mafic rock analogue",
+    "scope": "Specified reaction-path assemblage; not a predicted equilibrium assemblage or calibrated geological rate.",
+    "conditions": {
+      "rock_mass_kg": 1.0,
+      "water_rock_mass_ratio": 0.5,
+      "temperature_c": 80.0,
+      "pore_pressure_mpa": 20.0,
+      "duration_years": 1000.0,
+      "accessible_fraction": 0.25,
+      "half_time_reference_years": 1000.0,
+      "reference_temperature_c": 80.0,
+      "reference_pressure_mpa": 20.0,
+      "activation_energy_kj_mol": 60.0,
+      "activation_volume_cm3_mol": 0.0,
+      "porosity": 0.05,
+      "available_pore_fraction": 0.25,
+      "effective_bulk_modulus_gpa": 1.0,
+      "minimum_total_stress_mpa": 50.0,
+      "biot_coefficient": 1.0,
+      "flaw_half_length_m": 0.001,
+      "crack_geometry_factor": 1.0,
+      "fracture_toughness_mpa_sqrt_m": 1.0
+    },
+    "rate_per_year": 0.0006931471805599453,
+    "accessible_conversion_fraction": 0.5,
+    "whole_initial_reactive_mineral_fraction": 0.125,
+    "water_limitation_multiplier": 1.0,
+    "hydrogen_mol": 0.036238937530646644,
+    "hydrogen_kg": 7.305334938927995e-05,
+    "water_consumed_kg": 0.0036437755634243073,
+    "remaining_water_kg": 0.4963562244365757,
+    "phases": [
+      {
+        "mineral": "anorthite",
+        "initial_mol": 1.797221141702918,
+        "final_mol": 1.797221141702918,
+        "final_mass_kg": 0.5,
+        "final_solid_volume_m3": 0.00018115942028985507
+      },
+      {
+        "mineral": "diopside",
+        "initial_mol": 0.9235725263033456,
+        "final_mol": 0.9235725263033456,
+        "final_mass_kg": 0.2,
+        "final_solid_volume_m3": 6.097560975609757e-05
+      },
+      {
+        "mineral": "enstatite",
+        "initial_mol": 1.992256100537212,
+        "final_mol": 1.7432240879700605,
+        "final_mass_kg": 0.17500000000000002,
+        "final_solid_volume_m3": 5.468750000000001e-05
+      },
+      {
+        "mineral": "fayalite",
+        "initial_mol": 0.2453709542623634,
+        "final_mol": 0.21469958497956798,
+        "final_mass_kg": 0.043750000000000004,
+        "final_solid_volume_m3": 9.965831435079727e-06
+      },
+      {
+        "mineral": "ferrosilite",
+        "initial_mol": 0.3789925922107926,
+        "final_mol": 0.33161851818444354,
+        "final_mass_kg": 0.04375,
+        "final_solid_volume_m3": 1.09375e-05
+      },
+      {
+        "mineral": "lizardite",
+        "initial_mol": 0,
+        "final_mol": 0.08301067085571716,
+        "final_mass_kg": 0.023003282906011002,
+        "final_solid_volume_m3": 9.020895257259217e-06
+      },
+      {
+        "mineral": "magnetite",
+        "initial_mol": 0,
+        "final_mol": 0.036238937530646644,
+        "final_mass_kg": 0.008390495427708197,
+        "final_solid_volume_m3": 1.6197867621058295e-06
+      },
+      {
+        "mineral": "quartz",
+        "initial_mol": 0,
+        "final_mol": 0.16105611416486168,
+        "final_mass_kg": 0.009676943880315798,
+        "final_solid_volume_m3": 3.6516769359682256e-06
+      }
+    ],
+    "reaction_extents_mol": {
+      "enstatite": 0.08301067085571716,
+      "ferrosilite": 0.015791358008783025,
+      "fayalite": 0.01022378976093181
+    },
+    "max_relative_element_balance_error": 0.0,
+    "mechanics": {
+      "initial_solid_volume_m3": 0.00032852455168604376,
+      "final_solid_volume_m3": 0.00033201822043636567,
+      "solid_volume_change_percent": 1.0634422092327123,
+      "bulk_reaction_strain": 0.010102700987710723,
+      "free_pore_allowance_strain": 0.0125,
+      "trial_expansion_stress_mpa": 0.0,
+      "minimum_effective_stress_mpa": 30.0,
+      "screening_tensile_stress_mpa": 0,
+      "stress_intensity_mpa_sqrt_m": 0.0,
+      "fracture_index": 0.0,
+      "cracking_screen_positive": false,
+      "mechanical_scope": "Constrained-volume screening with fixed nominal mineral densities; no force equilibrium, crack aperture, propagation or permeability prediction."
+    }
+  },
+  {
+    "rock": "Magnetite BIF analogue",
+    "scope": "Specified reaction-path assemblage; not a predicted equilibrium assemblage or calibrated geological rate.",
+    "conditions": {
+      "rock_mass_kg": 1.0,
+      "water_rock_mass_ratio": 0.5,
+      "temperature_c": 80.0,
+      "pore_pressure_mpa": 20.0,
+      "duration_years": 1000.0,
+      "accessible_fraction": 0.25,
+      "half_time_reference_years": 1000.0,
+      "reference_temperature_c": 80.0,
+      "reference_pressure_mpa": 20.0,
+      "activation_energy_kj_mol": 60.0,
+      "activation_volume_cm3_mol": 0.0,
+      "porosity": 0.05,
+      "available_pore_fraction": 0.25,
+      "effective_bulk_modulus_gpa": 1.0,
+      "minimum_total_stress_mpa": 50.0,
+      "biot_coefficient": 1.0,
+      "flaw_half_length_m": 0.001,
+      "crack_geometry_factor": 1.0,
+      "fracture_toughness_mpa_sqrt_m": 1.0
+    },
+    "rate_per_year": 0.0006931471805599453,
+    "accessible_conversion_fraction": 0.5,
+    "whole_initial_reactive_mineral_fraction": 0.125,
+    "water_limitation_multiplier": 1.0,
+    "hydrogen_mol": 0.13497019426206072,
+    "hydrogen_kg": 0.000272083715209003,
+    "water_consumed_kg": 0.002431525841285401,
+    "remaining_water_kg": 0.4975684741587146,
+    "phases": [
+      {
+        "mineral": "hematite",
+        "initial_mol": 0,
+        "final_mol": 0.4049105827861822,
+        "final_mass_kg": 0.06465944212607642,
+        "final_solid_volume_m3": 1.2292669605717952e-05
+      },
+      {
+        "mineral": "magnetite",
+        "initial_mol": 2.1595231081929716,
+        "final_mol": 1.8895827196688502,
+        "final_mass_kg": 0.4375,
+        "final_solid_volume_m3": 8.445945945945946e-05
+      },
+      {
+        "mineral": "quartz",
+        "initial_mol": 8.321641427128219,
+        "final_mol": 8.321641427128219,
+        "final_mass_kg": 0.5,
+        "final_solid_volume_m3": 0.00018867924528301886
+      }
+    ],
+    "reaction_extents_mol": {
+      "magnetite": 0.13497019426206072
+    },
+    "max_relative_element_balance_error": 0.0,
+    "mechanics": {
+      "initial_solid_volume_m3": 0.0002852043418081154,
+      "final_solid_volume_m3": 0.00028543137434819627,
+      "solid_volume_change_percent": 0.07960346558595344,
+      "bulk_reaction_strain": 0.0007562329230665611,
+      "free_pore_allowance_strain": 0.0125,
+      "trial_expansion_stress_mpa": 0.0,
+      "minimum_effective_stress_mpa": 30.0,
+      "screening_tensile_stress_mpa": 0,
+      "stress_intensity_mpa_sqrt_m": 0.0,
+      "fracture_index": 0.0,
+      "cracking_screen_positive": false,
+      "mechanical_scope": "Constrained-volume screening with fixed nominal mineral densities; no force equilibrium, crack aperture, propagation or permeability prediction."
+    }
+  },
+  {
+    "rock": "Granite radiolysis host",
+    "scope": "Specified reaction-path assemblage; not a predicted equilibrium assemblage or calibrated geological rate.",
+    "conditions": {
+      "rock_mass_kg": 1.0,
+      "water_rock_mass_ratio": 0.5,
+      "temperature_c": 80.0,
+      "pore_pressure_mpa": 20.0,
+      "duration_years": 1000.0,
+      "accessible_fraction": 0.25,
+      "half_time_reference_years": 1000.0,
+      "reference_temperature_c": 80.0,
+      "reference_pressure_mpa": 20.0,
+      "activation_energy_kj_mol": 60.0,
+      "activation_volume_cm3_mol": 0.0,
+      "porosity": 0.05,
+      "available_pore_fraction": 0.25,
+      "effective_bulk_modulus_gpa": 1.0,
+      "minimum_total_stress_mpa": 50.0,
+      "biot_coefficient": 1.0,
+      "flaw_half_length_m": 0.001,
+      "crack_geometry_factor": 1.0,
+      "fracture_toughness_mpa_sqrt_m": 1.0
+    },
+    "rate_per_year": 0.0006931471805599453,
+    "accessible_conversion_fraction": 0.5,
+    "whole_initial_reactive_mineral_fraction": 0.125,
+    "water_limitation_multiplier": 1.0,
+    "hydrogen_mol": 0.0,
+    "hydrogen_kg": 0.0,
+    "water_consumed_kg": 0.0,
+    "remaining_water_kg": 0.5,
+    "phases": [
+      {
+        "mineral": "albite",
+        "initial_mol": 1.3347417655561744,
+        "final_mol": 1.3347417655561744,
+        "final_mass_kg": 0.35,
+        "final_solid_volume_m3": 0.00013358778625954196
+      },
+      {
+        "mineral": "annite",
+        "initial_mol": 0.09767914001901992,
+        "final_mol": 0.09767914001901992,
+        "final_mass_kg": 0.05,
+        "final_solid_volume_m3": 1.5151515151515153e-05
+      },
+      {
+        "mineral": "microcline",
+        "initial_mol": 1.0778512619043348,
+        "final_mol": 1.0778512619043348,
+        "final_mass_kg": 0.3,
+        "final_solid_volume_m3": 0.0001171875
+      },
+      {
+        "mineral": "quartz",
+        "initial_mol": 4.992984856276931,
+        "final_mol": 4.992984856276931,
+        "final_mass_kg": 0.3,
+        "final_solid_volume_m3": 0.00011320754716981132
+      }
+    ],
+    "reaction_extents_mol": {},
+    "max_relative_element_balance_error": 0.0,
+    "mechanics": {
+      "initial_solid_volume_m3": 0.0003791343485808684,
+      "final_solid_volume_m3": 0.0003791343485808684,
+      "solid_volume_change_percent": 0.0,
+      "bulk_reaction_strain": 0.0,
+      "free_pore_allowance_strain": 0.0125,
+      "trial_expansion_stress_mpa": 0.0,
+      "minimum_effective_stress_mpa": 30.0,
+      "screening_tensile_stress_mpa": 0,
+      "stress_intensity_mpa_sqrt_m": 0.0,
+      "fracture_index": 0.0,
+      "cracking_screen_positive": false,
+      "mechanical_scope": "Constrained-volume screening with fixed nominal mineral densities; no force equilibrium, crack aperture, propagation or permeability prediction."
+    }
+  }
+]
